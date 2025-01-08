@@ -97,7 +97,9 @@ In its own words, plotnine implements a "grammar of graphics" with the intent of
 **Migrating from R?** If you used ggplot2, then you might like plotnine, for obvious reasons.
 
 ### [Perceptually uniform colour maps](https://github.com/callumrollo/cmcrameri)
-Fabio Crameri's scientific colour maps were developed to accurately communicate numerical data via colour without distortion due to the choice of colourmap and the way humans perceive light. [The author's argument for their superiority](https://www.nature.com/articles/s41467-020-19160-7) to other popular colourmaps are pretty convincing. I recommend all 
+This isn't a plotting library, but is a tool for colourmaps that can be used alongside the above libraries. 
+
+Fabio Crameri's scientific colour maps were developed to accurately communicate numerical data via colour without distortion due to the choice of colourmap and the way humans perceive light. [The author's argument for their superiority](https://www.nature.com/articles/s41467-020-19160-7) to other popular colourmaps are pretty convincing. I recommend everyone producing scientific or data-driven figures use these colourmaps, or at least consider the uniformity and accessibility of chosen colourmaps.
 
 ## Meteorology and air quality
 These libraries are specific to meteorology, air quality, or related fields. In some cases they have some overlapping functionality with other, more general libraries, so if you find you need only one or two features, it might be worth re-checking the features in the libraries you're already using.
