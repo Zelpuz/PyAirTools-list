@@ -40,7 +40,7 @@ Unfortunately, pandas has some downsides. It is not always very fast, especially
 </details>
 
 ## Basic math, scientific computing, and fundamental statistics
-Python, like many high-level programming languages, has all the basic mathematical operations built-in (`*`, `/`, `+`, `-`, `**`), and has a fairly robust set of mathematical operations in the [math](https://docs.python.org/3/library/math.html) module. These libraries extend Python's mathemtical and scientific functionality for linear algebra, statistics, and other more specific tasks.
+Python, like many high-level programming languages, has all the basic mathematical operations built-in (`*`, `/`, `+`, `-`, `**`), and has a fairly robust set of mathematical operations in the [math](https://docs.python.org/3/library/math.html) module. These libraries extend Python's mathematical and scientific functionality for linear algebra, statistics, and other more specific tasks.
 
 ### [numpy](https://github.com/numpy/numpy)
 numpy adds a bunch of mathematical abilities to Python. First among these is support for fast N-dimensional arrays. 
