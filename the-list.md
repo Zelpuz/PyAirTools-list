@@ -3,7 +3,7 @@
 This list is not comprehensive and is continuously edited. At the moment, it is roughly sorted categorically by the type of work the library or tool pertains to. For users familiar with R, I start some passages with "**Migrating from R?**" to indicate libraries or features you might find helpful.
 
 ## Development environment
-Working in Python for scientific analysis or data science would quickly become intolerable if you only wrote standalone scripts and executed them from the command line. To fix this, I suggest using one of these interactive development environments (IDEs). This section does not cover Python virtual environments, which I talk about on a separate page.
+Working in Python for scientific analysis or data science would quickly become intolerable if you only wrote standalone scripts and executed them from the command line. To fix this, I suggest using one of these interactive development environments (IDEs).
 
 ### [Jupyter](https://jupyter.org/)
 Jupyter is a Python development environment with files called _notebooks_, within which content is broken up into _cells_. Cells can contain code, plain text, or markdown text. This is nice if you want to create an analysis that works step-by-step and includes lots of documentation on what its doing. 
